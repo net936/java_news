@@ -12,9 +12,7 @@
 演示地址：[https://news.gitapp.cn](https://news.gitapp.cn)
 
 
-## 源码下载
 
-https://github.com/geeeeeeeek/java_news
 
 
 ## 主要功能
